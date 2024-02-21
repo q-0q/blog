@@ -7,5 +7,9 @@
     "docs:dev": "vitepress dev content",
     "docs:build": "vitepress build content",
     "docs:preview": "vitepress preview content"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/q-0q/blog.git"
   }
 }
