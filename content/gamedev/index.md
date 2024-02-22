@@ -10,10 +10,5 @@ In this sub blog you'll find various engine tips and tricks that I couldn't find
 
 ---
 
-[FSM Controller in Godot]() <sup>2.28.2024</sup>
 
-[Godot vs. Unity]() <sup>2.21.2024</sup>
-
-[Godot]() <sup>1.21.2024</sup>
-
-[Unity]() <sup>1.10.2024</sup>
+[Unity vs Godot](/gamedev/unity-vs-godot.html) <sup>2.21.2024</sup>
