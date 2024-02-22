@@ -33,13 +33,3 @@ Do you trust Unity to distinguish installs that are legitimate from those that a
 Many in the game dev community saw the announcement it as a wake-up call, realizing that when you depend on closed-source software, you are putting yourself in a position where profit-driven corporations can exploit your passions (or your livelihood) to their own ends.
 
 Thanks to the backlash, Unity [backpedalled on these announcements](https://unity.com/pricing-updates) and even expanded features of the engine's free tier, like making the infamous "Made with Unity" splash screen finally optional -- essentially admitting that people want to hide that they use the engine.
-
-
-
-Hi paloma!
-
-::: tip I love paloma!
-
-I love pp!!!!
-
-:::
