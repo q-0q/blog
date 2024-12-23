@@ -28,12 +28,16 @@ There was a contemplative pause before the woman's voice again broke into mild l
 
 "If I may speak plainly, I feared I would be paired with someone much more hostile than you," the man responded hesitantly. "As you said, it's normally not a position that your kind opts-in to."
 
-The voice did not immediately respond to this. A few moments passed when suddenly the ground began thumping with the growing pulse of trampling hooves. The man scrambled to his feet. The gelding started. Throwing his back against the wall of the mill, he deftly unholstered his pistol and pointed it out into the pitch storm. Before the man could discern the direction it was approaching, a nine-foot elk emerged at full-tilt from the darkness and into the camp. Without changing his stance, the man fired, sending out a raspy woman's scream from the muzzle of the weapon. A blue shot carved through the beast's left shoulder and torso, misting the surrounding ruin-stones in its gore. Its corpse collapsed at speed, further breaking its body with a crunching noise. The man stead fast, keeping the steaming barrel trained on the creature that now lay ten feet before him.
+The voice did not immediately respond to this. The rider suddenly shifted again, seemingly aware of some great danger. He silently rose to a stand. Slowly putting his back to the wall of the mill, he calmly unholstered his pistol and gestured into the black. He pierced the darkness and identified the silhouette of a male moose stooping on a ridge that hugged the bank upstream. The massive animal bore a sinister crown that held the beasts head low in a wickedly predatory posture. Its powerful legs shifted impatiently.
 
-The pistol was of a cerulean metal. The etched butt sat in the human's trembling hand, in front of which, suspended in air, was a helical cylinder of six slugs with a tabular hammer. The long barrel stretched out in front of it with swooping curved lines, and forming its muzzle was the head of a female demon, mouth agape.
+They watched each other for a few seconds in silence before the moose began swaying its rack broadly, and snorting aggressively, while starting its way across the hilltop. It had just gotten up to full tilt when, without changing his stance, the man fired, sending out a raspy woman's scream from the muzzle of the weapon. A blue shot carved through the beast's left shoulder and torso, misting the ruin-stones in its gore. Its corpse collapsed at speed, further breaking its body with a crunch. The man stood fast, keeping the steaming barrel trained on the creature that now lay ten feet before him.
 
-It was still one of the first times the man witnessed the power that he carried. Nearly a quarter of the animal's body had been disintegrated. He lowered the weapon. The roaring crack was still reverberating distantly across the valley when the voice came rashly, shaking him out his trance.
+It was one of the early times the man witnessed the power that he carried. Nearly a quarter of the animal's body had been disintegrated. He lowered the weapon and held it in his gaze. 
 
-"*Eus! Ca leung!*" She cackled wickedly in an infernal tongue. "*Great shot Balor! Foul thing thought it had us!*" The man turned the pistol in his gloved hands and opened the cylinder. Five of the engraved rounds glowed, one was now dim and steaming softly. He removed and replaced the spent shell, closed it, and held the weapon in his gaze for a few moments.
+The pistol was of a cerulean metal. The etched butt sat in the human's trembling hand, in front of which was a helical cylinder of six slugs with a tabular hammer. The long barrel stretched out in front of it with swooping curved lines, and forming its muzzle was the head of a female demon, mouth agape.
 
-"Well done yourself," he finally managed to say
+The roaring crack was still reverberating distantly across the valley when the voice came, now rashly enthusiastic, taking him out his trance.
+
+"*Eus! Ca leung!*" She cackled wickedly in an infernal tongue. "*Great shot Balor! Foul thing thought it had us!*" The man turned the pistol in his gloved hands and opened the cylinder. Five of the engraved rounds glowed, one was now dim and steaming softly. He removed and replaced the spent shell.
+
+"Well done yourself," he finally managed to say. "Rare are weapons that can stop a beast like that with such ease."
