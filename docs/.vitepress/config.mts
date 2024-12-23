@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   themeConfig: {
-    siteTitle: "jack withers",
+    siteTitle: "Hello everyone",
 
     socialLinks: [
       {
