@@ -38,6 +38,13 @@ The pistol was of a cerulean metal. The etched butt sat in the human's trembling
 
 The roaring crack was still reverberating distantly across the valley when the voice came, now rashly enthusiastic, taking him out his trance.
 
-"*Eus! Ca leung!*" She cackled wickedly in an infernal tongue. "*Great shot Balor! Foul thing thought it had us!*" The man turned the pistol in his gloved hands and opened the cylinder. Five of the engraved rounds glowed, one was now dim and steaming softly. He removed and replaced the spent shell.
+"*Eus! Ca leung!*" She cackled wickedly in an infernal tongue. "*Great shot Balor! Foul thing thought it had us!*" The man turned the pistol in his gloved hands and opened the cylinder. Five of the engraved rounds glowed, one was now dim and steaming softly. He removed and replaced the spent shell. He felt a weariness befall him and he again slumped back against the stones.
 
-"Well done yourself," he finally managed to say. "Rare are weapons that can stop a beast like that with such ease."
+"Suddenly, I've lost my breath," he said. The rain then slowed, leaving him newly aware of the  crickets droning around him. The dense, black storm clouds lingered in front of the stars, blanketing the land in a cold, shadowy mourning. He brought himself to his feet once more and began to prepare for riding. She spoke again.
+
+"*Are we off so soon? You don't look so good after that*," she chimed. The words were fixed with an obsessive fascination, and her voice sounded suddenly as on a needle point. Neither said anything for a moment once again. 
+
+"*The next-largest thing like that creature is miles from here. Anything that heard the blast would have gone running, anyways!*" Her voice brought him back down, laying back against a bed of grass. He dimmed the lamp with a quiet word and gazed up at the shifting clouds.
+
+***
+

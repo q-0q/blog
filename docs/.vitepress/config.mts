@@ -1,8 +1,9 @@
 import { defineConfig } from 'vitepress'
 
+
 export default defineConfig({
   themeConfig: {
-    siteTitle: "Hello everyone",
+    siteTitle: "Jack Withers",
 
     socialLinks: [
       {
@@ -16,11 +17,18 @@ export default defineConfig({
     },
 
     nav: [
-      // {
-      //   text: "gamedev",
-      //   link: "/gamedev/",
-      //   activeMatch: "^/gamedev/",
-      // },
+      {
+        text: "psn",
+        link: "/psn/",
+        activeMatch: "^/psn/",
+      },
+
+      {
+        text: "wasp",
+        link: "/wasp/",
+        activeMatch: "^/wasp/",
+      },
+
       {
         text: "writing",
         link: "/writing/",
@@ -28,4 +36,14 @@ export default defineConfig({
       },
     ],
   },
+
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => tag === "lite-youtube",
+      },
+    },
+  },
+
 });
+
