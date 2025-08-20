@@ -38,13 +38,27 @@ The pistol was of a cerulean metal. The etched butt sat in the human's trembling
 
 The roaring crack was still reverberating distantly across the valley when the voice came, now rashly enthusiastic, taking him out his trance.
 
-"*Eus! Ca leung!*" She cackled wickedly in an infernal tongue. "*Great shot Balor! Foul thing thought it had us!*" The man turned the pistol in his gloved hands and opened the cylinder. Five of the engraved rounds glowed, one was now dim and steaming softly. He removed and replaced the spent shell. He felt a weariness befall him and he again slumped back against the stones.
+"*Eus! Ca leung!*" She cackled wickedly in an infernal tongue. "*Great shot Balor! Foul thing thought it had us!*" The man turned the pistol in his gloved hands and felt a weariness befall him. He again slumped back against the stones.
 
-"Suddenly, I've lost my breath," he said. The rain then slowed, leaving him newly aware of the  crickets droning around him. The dense, black storm clouds lingered in front of the stars, blanketing the land in a cold, shadowy mourning. He brought himself to his feet once more and began to prepare for riding. She spoke again.
+"Suddenly, I've lost my breath," he said. The rain then slowed, leaving him newly aware of the  crickets droning around him. The dense, black storm clouds lingered in front of the stars, blanketing the land in a shadow. He brought himself to his feet once more and began to prepare for riding. She spoke again.
 
 "*Are we off so soon? You don't look so good after that*," she chimed. The words were fixed with an obsessive fascination, and her voice sounded suddenly as on a needle point. Neither said anything for a moment once again. 
 
-"*The next-largest thing like that creature is miles from here. Anything that heard the blast would have gone running, anyways!*" Her voice brought him back down, laying back against a bed of grass. He dimmed the lamp with a quiet word and gazed up at the shifting clouds.
+"*The next-largest thing like that creature is miles from here. Anything that heard the blast would have gone running, anyways!*" Her voice brought him back down, laying back against a bed of grass. He dimmed the lamp with a quiet word and fell asleep under the shifting night sky.
 
 ***
+
+Fifteen days west, packed tightly into the seawardmost point of a cliffed peninsula, was the glittering coastal city of Whitewatch. The vibrantly colored tile roofs of the town below were surrounded in a crown of high towers along the cliffside that sparkled under the cloudless skies. Gold wisps of glittering enchantment meshed between the towers, softly veiling the city in an effect.
+
+The tower on the northern coast was not the largest, but was as uniquely impressive as the others. The towers held the conferences of the magisters.
+
+---
+
+Morning came, and several mornings after that, as Balor and his horse navigated the country. The land was hospitable, though still he kept senses sharpened, as he had not been in this far east of the Teeth before. The valley swards had begun to climb again on the third day, and clutches of buckthorns appeared beside the easting path, clustering further in the distance beneath the mountains and rising sun.
+
+Balor felt the incident with the elk weigh on his mind, and he was troubled. The sudden verbosity of his companion that night had disturbed him, and even more so now her silence since. He traveled without conversation, yet found himself overwhelmed still by her presence.
+
+In his brief hours of sleep, he saw blurred, leathery-winged shapes, ice-cold flames smelting ingots of black glass, and suffered cacophanic mutterings in his ears. After days of riding, his mind and body weared.
+
+---
 

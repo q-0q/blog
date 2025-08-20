@@ -34,7 +34,7 @@ Second, implementing motion controls is a surprising involved task. You need to 
 
 For these reasons, I deemed the cost of implementing motion inputs to outweight their gameplay benefits. I may revisit this decision later into the development cycle.
 
-### Jumping
+### The air
 
 Across all fighting games, jumping into the air gives a player largely different properties than being on the ground, but how exactly characters behave in the air varies drastically across games.
 
@@ -42,7 +42,12 @@ In the Street Fighter franchise, characters cannot block in the air, and air mob
 
 From a game design perspective, a more air-oriented game is more difficult to create because it (literally) adds more dimensions to the gameplay, and new gameplay features must consider both grounded and aerial situations. An air-oriented game also tends to play faster than a grounded game as players generally have access to more mobility options.
 
-For PSN, I am aiming for an in-between. Players are able to multi-jump and block in the air, which allows for more potent anti-air attacks to have a place in the game, and makes jumping less punishing. Characters by default, however, cannot dash in the air or super-jump. I hope this will keep PSN's gameplay loop more on the grounded-side, which will mean fewer variables I need to consider as the gameplay designer. Further, giving characters a lower baseline of aerial power allows room for certain characters to 
+For PSN, I am aiming for an in-between. Players are able to multi-jump and block in the air, which allows for more potent anti-air attacks to have a place in the game, and makes jumping less punishing. Characters by default, however, cannot dash in the air or super-jump. This will keep PSN's gameplay loop more grounded, which will mean fewer variables I need to consider as the gameplay designer.
+
+Further, giving characters a lower baseline of aerial power allows room for certain characters to have enhanced aerial mobility as part of their unique identities. 
+
+
+When most characters are weak in some property (such as mobility, or defense, or offense), then it's easier to make that property a central part of some character's unique identity..
 
 ## Netcode
 
