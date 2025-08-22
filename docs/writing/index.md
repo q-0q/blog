@@ -28,7 +28,7 @@ There was a contemplative pause before the woman's voice again broke into mild l
 
 "If I may speak plainly, I feared I would be paired with someone much more hostile than you," the man responded hesitantly. "As you said, it's normally not a position that your kind opts-in to."
 
-The voice did not immediately respond to this. The rider suddenly shifted again, seemingly aware of some great danger. He silently rose to a stand. Slowly putting his back to the wall of the mill, he calmly unholstered his pistol and gestured into the black. He pierced the darkness and identified the silhouette of a male moose stooping on a ridge that hugged the bank upstream. The massive animal bore a sinister crown that held the beasts head low in a wickedly predatory posture. Its powerful legs shifted impatiently.
+The voice did not immediately respond to this. The rider suddenly shifted again, seemingly aware of some great danger. He silently rose to a stand. Slowly putting his back to the wall of the mill, he calmly unholstered his pistol and gestured into the black. He pierced the darkness and identified the silhouette of a male moose stooping on a ridge that hugged the bank upstream. The massive animal bore a sinister crown that held the beasts head low in a wicked posture. Its powerful legs shifted impatiently.
 
 They watched each other for a few seconds in silence before the moose began swaying its rack broadly, and snorting aggressively, while starting its way across the hilltop. It had just gotten up to full tilt when, without changing his stance, the man fired, sending out a raspy woman's scream from the muzzle of the weapon. A blue shot carved through the beast's left shoulder and torso, misting the ruin-stones in its gore. Its corpse collapsed at speed, further breaking its body with a crunch. The man stood fast, keeping the steaming barrel trained on the creature that now lay ten feet before him.
 
@@ -46,11 +46,13 @@ The roaring crack was still reverberating distantly across the valley when the v
 
 "*The next-largest thing like that creature is miles from here. Anything that heard the blast would have gone running, anyways!*" Her voice brought him back down, laying back against a bed of grass. He dimmed the lamp with a quiet word and fell asleep under the shifting night sky.
 
-***
+---
 
-Fifteen days west, packed tightly into the seawardmost point of a cliffed peninsula, was the glittering coastal city of Whitewatch. The vibrantly colored tile roofs of the town below were surrounded in a crown of high towers along the cliffside that sparkled under the cloudless skies. Gold wisps of glittering enchantment meshed between the towers, softly veiling the city in an effect.
+Out, down, and deep the land arched from them. The world around them was born of sullen stone, the cliffs hung low with their age, and the hills rolled begrudgingly through the long years, grinding towards their fate as dust to the far south. The clearing night air held the outburst of the weapon in it like a wound. It whimpered high up into the sky, until cresting the clouds where it was comforted by the light of the moon. 
 
-The tower on the northern coast was not the largest, but was as uniquely impressive as the others. The towers held the conferences of the magisters.
+Over the pines, past the Teeth, and fifteen days due west, where the land embraced the sea, a cliffed peninsula stood out of the water. Orderly pastures weaved along the estuaries where squat, stone settlements with thatched roofs clustered infrequently, then more densely as the lands flowed up into the peninsula, where, packed tightly into the seawardmost point of a the cliffs, sprung a city. The vibrantly colored tile roofs of the town below were surrounded in a crown of high towers along the cliffside that glinted gently in the moon under the clear night sky.
+
+A connection meshed between the towers, softly veiling the city in an effect. The tower on the northern coast balanced on an embankment, perched soundly over the explosive crashing of the sea below. From the tower's finials were tied immensely long white ribbons that trailed down towards the city, dancing above the streets in the ocean's calm breeze. The tower's top was flat, with large, ornate crenellations, and ranks of freely exposed chambers climbed down the sides.
 
 ---
 
