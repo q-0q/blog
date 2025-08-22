@@ -2,7 +2,9 @@
 home: false
 ---
 
-# 0
+# Vagrant
+
+## 0
 
 Marching down from the jagged Teeth was a series of staggered stone escarpments that surrounded the base of the valley with high walls. The swathe of plain that carved through the lowest parts of the Hornblend was slick with downpour that dully shone in the dim nightlight. On the western side, an expansive copse of pines, darker than the sky, marched up the sloping fields right to the base of the cliffs, but through their sparse number pierced a bobbing torchlight.
 
@@ -46,7 +48,7 @@ The roaring crack was still reverberating distantly across the valley when the v
 
 "*The next-largest thing like that creature is miles from here. Anything that heard the blast would have gone running, anyways!*" Her voice brought him back down, laying back against a bed of grass. He dimmed the lamp with a quiet word and fell asleep under the shifting night sky.
 
----
+## 1
 
 Out, down, and deep the land arched from them. The world around them was born of sullen stone, the cliffs hung low with their age, and the hills rolled begrudgingly through the long years, grinding towards their fate as dust to the far south. The clearing night air held the outburst of the weapon in it like a wound. It whimpered high up into the sky, until cresting the clouds where it was comforted by the light of the moon. 
 
@@ -54,7 +56,7 @@ Over the pines, past the Teeth, and fifteen days due west, where the land embrac
 
 A connection meshed between the towers, softly veiling the city in an effect. The tower on the northern coast balanced on an embankment, perched soundly over the explosive crashing of the sea below. From the tower's finials were tied immensely long white ribbons that trailed down towards the city, dancing above the streets in the ocean's calm breeze. The tower's top was flat, with large, ornate crenellations, and ranks of freely exposed chambers climbed down the sides.
 
----
+## 2
 
 Morning came, and several mornings after that, as Balor and his horse navigated the country. The land was hospitable, though still he kept senses sharpened, as he had not been in this far east of the Teeth before. The valley swards had begun to climb again on the third day, and clutches of buckthorns appeared beside the easting path, clustering further in the distance beneath the mountains and rising sun.
 
